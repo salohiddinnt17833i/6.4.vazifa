@@ -1,0 +1,11 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+.todo-wrapper{
+  max-width: 900px;
+  width: 100%;
+  margin: 50px auto;
+}
